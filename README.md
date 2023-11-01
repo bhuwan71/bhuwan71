@@ -26,7 +26,7 @@ I have had the privilege to work with clients across various industries, deliver
 
 If you're looking for a reliable and efficient web developer to help you achieve your web development goals, then look no further. Feel free to reach out to me to discuss your project and how I can help bring your vision to life.
 
-You can contact me at [your@email.com](mailto:your@email.com).
+You can contact me at bhuwanchettri71@gmail.com
 
 ---
 
