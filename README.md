@@ -1,16 +1,12 @@
-Sure! Here's a full profile description for a Full Stack MERN Developer:
-
----
-
 # 🚀 Full Stack MERN Developer for Hire 🚀
 
 Welcome to my GitHub profile! I am a dedicated Full Stack MERN Developer with a passion for creating dynamic and responsive web applications. With a robust understanding of both front-end and back-end technologies, I strive to deliver seamless and efficient solutions tailored to meet your needs.
 
-![Profile Banner](https://your-banner-image-url.com)  <!-- Replace with a link to your profile banner image -->
+![Profile Banner]([https://your-banner-image-url.com](https://media.licdn.com/dms/image/D5603AQHlzpgp2PXgTA/profile-displayphoto-shrink_400_400/0/1714068257118?e=1726704000&v=beta&t=g1zu2_SlKZ9fmuMFLzkp6n9bRFyp86bolk_7ZHt9m-I))
 
 ## 🌟 About Me
 
-Hello! I'm Guam, a Full Stack MERN Developer with extensive experience in building and maintaining web applications. My expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) enables me to handle every aspect of the web development process, from designing the user interface to managing server-side operations.
+Hello! I'm Bhuwan, a Full Stack MERN Developer with extensive experience in building and maintaining web applications. My expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) enables me to handle every aspect of the web development process, from designing the user interface to managing server-side operations.
 
 ## 💼 Services Offered
 
@@ -40,13 +36,6 @@ I offer a comprehensive range of web development services:
 - 🔄 WebRTC
 - 🔄 Socket.IO
 
-### DevOps & Tools
-- 🛠 Docker
-- 🛠 Git & GitHub
-- 🛠 CI/CD Pipelines
-- 🛠 Heroku
-- 🛠 AWS
-
 ## 📂 Portfolio
 
 I've had the opportunity to work with clients from various industries, delivering tailored web solutions. Here are some highlights of my work:
@@ -59,8 +48,8 @@ I've had the opportunity to work with clients from various industries, deliverin
 
 I'm always excited to take on new challenges and collaborate with others. Feel free to reach out if you have any project ideas or if you want to discuss potential opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile) <!-- Replace with your LinkedIn profile URL -->
-[![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white)](mailto:your-email@example.com) <!-- Replace with your email address -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bhuwan-k-c-3784391b9/)) <!-- Replace with your LinkedIn profile URL -->
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white)](mailto:bhuwanchettri71@gmail.com) <!-- Replace with your email address -->
 
 ## ⚡️ Skills
 
@@ -93,8 +82,3 @@ Here are some of the key technologies and tools I work with:
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical) <!-- Replace with your GitHub username -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical) <!-- Replace with your GitHub username -->
