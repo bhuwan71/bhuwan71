@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I am a dedicated Full Stack MERN Developer with a passion for creating dynamic and responsive web applications. With a robust understanding of both front-end and back-end technologies, I strive to deliver seamless and efficient solutions tailored to meet your needs.
 
-![Profile Banner]([https://your-banner-image-url.com](https://media.licdn.com/dms/image/D5603AQHlzpgp2PXgTA/profile-displayphoto-shrink_400_400/0/1714068257118?e=1726704000&v=beta&t=g1zu2_SlKZ9fmuMFLzkp6n9bRFyp86bolk_7ZHt9m-I))
 
 ## 🌟 About Me
 
@@ -48,7 +47,7 @@ I've had the opportunity to work with clients from various industries, deliverin
 
 I'm always excited to take on new challenges and collaborate with others. Feel free to reach out if you have any project ideas or if you want to discuss potential opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/bhuwan-k-c-3784391b9/)) <!-- Replace with your LinkedIn profile URL -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhuwan-k-c-3784391b9/)
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white)](mailto:bhuwanchettri71@gmail.com) <!-- Replace with your email address -->
 
 ## ⚡️ Skills
