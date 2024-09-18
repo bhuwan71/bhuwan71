@@ -1,4 +1,4 @@
-# 🚀 Full Stack MERN Developer for Hire 🚀
+# 🚀 MERN Developer for Hire 🚀
 
 Welcome to my GitHub profile! I am a dedicated Full Stack MERN Developer with a passion for creating dynamic and responsive web applications. With a robust understanding of both front-end and back-end technologies, I strive to deliver seamless and efficient solutions tailored to meet your needs.
 
@@ -60,7 +60,6 @@ I offer a comprehensive range of web development services:
 - 📊 Sequelize ORM
 
 ### Real-Time Communication
-- 🔄 WebRTC
 - 🔄 Socket.IO
 
 ## 📂 Portfolio
@@ -68,8 +67,8 @@ I offer a comprehensive range of web development services:
 I've had the opportunity to work with clients from various industries, delivering tailored web solutions. Here are some highlights of my work:
 
 - **E-Commerce Platform:** Developed a fully-functional e-commerce platform using the MERN stack, integrated with custom payment gateways and user authentication.
-- **Real-Time Chat Application:** Built a real-time chat application using React.js, Node.js, and Socket.IO, ensuring smooth and efficient communication.
 - **Custom Dashboard:** Created a dynamic admin dashboard with data visualization using React.js and D3.js, providing actionable insights and analytics.
+- **Financial Platform:** Developed a state-of-the-art financial platform using the MERN stack, featuring Sarallagani, a specialized tool for real-time stock price tracking of Nepse-listed companies. The platform integrates advanced user authentication to provide a secure and seamless experience. Users benefit from comprehensive financial data, including up-to-date stock prices, market trends, and analytics, empowering informed investment decisions.
 
 ## 🌐 Let's Connect
 
