@@ -77,7 +77,3 @@ I'm always excited to take on new challenges and collaborate with others. Feel f
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhuwan-k-c-3784391b9/)
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white)](mailto:bhuwanchettri71@gmail.com) <!-- Replace with your email address -->
 
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white)
-
