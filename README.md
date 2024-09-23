@@ -1,6 +1,6 @@
-# 🚀 MERN Developer for Hire 🚀
+# 🚀 MERN STACK Developer for Hire 🚀
 
-Welcome to my GitHub profile! I am a dedicated MERN Developer with a passion for creating dynamic and responsive web applications. With a robust understanding of both front-end and back-end technologies, I strive to deliver seamless and efficient solutions tailored to meet your needs.
+Hello !! I am a dedicated Developer with a passion for creating dynamic and responsive web applications. With a robust understanding of both front-end and back-end technologies, I strive to deliver seamless and efficient solutions tailored to meet your needs.
 
 ## ⚡️ Skills
 
